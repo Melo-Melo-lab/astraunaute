@@ -1,0 +1,21 @@
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Open+Sans&family=Oswald:wght@700&display=swap" rel="stylesheet">
+
+
+h1 {
+  font-weight: bold;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+#section-01 h1 {
+  color: rgb(255, 255, 255);
+  font-size: 8em;
+  margin-left: 1em;
+font-size-adjust: center
+}
+
+p {
+  margin-bottom: 1em;
+  font-family: 'Open Sans', sans-serif;
+}
